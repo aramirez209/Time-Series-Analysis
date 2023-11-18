@@ -4,9 +4,9 @@ Installation: Python.
 
 Usage:
 
-Clone the repository
-Install required dependencies pip install -r requirements.txt
-Run the Python system Python main.py
+  1. Clone the repository https://github.com/aramirez209/Time-Series-Analysis
+  2. Install required dependencies pip install -r requirements.txt
+  3. Run the Python system Python main.py
 
 Contributing: Analya Ramirez
 
